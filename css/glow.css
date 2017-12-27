@@ -1,0 +1,27 @@
+.container {
+    font-family: 'Montserrat', sans-serif;
+    /*font-family: Consolas, "Courier New", monospace;*/
+}
+
+.flexslider {
+    line-height: normal
+}
+
+.flex-direction-nav .flex-prev {
+    background: #000 url(../img/slider-left.png) center no-repeat;
+}
+
+.flex-direction-nav .flex-next {
+    background: #000 url(../img/slider-right.png) center no-repeat;
+}
+
+.footer {
+    text-align: center;
+    padding: 40px 0 20px 0;
+    font-size: 12px;
+    color: #999999;
+}
+
+.navbar-nav li.active {
+    border-bottom: 1px solid #000000;
+}
