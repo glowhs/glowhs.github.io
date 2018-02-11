@@ -33,3 +33,7 @@
     -o-filter: grayscale(100%);
     filter: grayscale(100%);
 }
+
+table.cennik td, table.cennik thead th {
+    text-align: center;
+}
