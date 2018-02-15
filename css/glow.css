@@ -37,3 +37,7 @@
 table.cennik td, table.cennik thead th {
     text-align: center;
 }
+
+.navbar-brand {
+    max-width: 20%;
+}
